@@ -1,0 +1,10 @@
+{
+  "name": "المصحف الصوتي",
+  "short_name": "المصحف الصوتي",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a3c2f",
+  "theme_color": "#1a3c2f",
+  "dir": "rtl",
+  "lang": "ar"
+}
